@@ -1,7 +1,7 @@
 /* Estilo general */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ffe4e1;
+    background-color: #303030;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -11,8 +11,8 @@ body {
   
   /* Contenedor de la invitación */
   .invitacion {
-    background-color: #fff;
-    color: #444;
+    background-color: #9c85a3;
+    color: #ffffff;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -22,14 +22,14 @@ body {
   
   /* Títulos y párrafos */
   h1 {
-    color: #e75480;
+    color: #f8ddff;
     font-size: 2rem;
   }
   
   .evento {
     font-size: 1.2rem;
     margin: 10px 0;
-    color: #555;
+    color: #ffffff;
   }
   
   .detalles p {
@@ -39,7 +39,7 @@ body {
   .mensaje {
     margin-top: 20px;
     font-size: 1rem;
-    color: #666;
+    color: #ffffff;
   }
   
   /* Botón de confirmación */
